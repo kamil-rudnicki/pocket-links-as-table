@@ -1,8 +1,15 @@
 ![Screenshot](screenshot.png)
 
-# Show Pocket links in table
+# Show Pocket links in a table
 
-Very simple script to show getpocket.com articles as table.
+### Motivation:
+
+A straightforward script to show getpocket.com articles as a table, to import them in Google Spreadsheet or Microsoft Excel.
+
+I wanted to review my entire Pocket articles library in a spreadsheet
+and didn't find any solution. So I made it ;)
+
+Also, I need to archive all Pocket links because I put proper articles in Roam Research now.
 
 ### Configure & run:
 
