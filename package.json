@@ -6,7 +6,8 @@
   "dependencies": {
     "express": "^4.17.1",
     "node-getpocket": "^1.0.0",
-    "quick.db": "^7.1.2"
+    "quick.db": "^7.1.2",
+    "rc": "^1.2.8"
   },
   "devDependencies": {},
   "scripts": {

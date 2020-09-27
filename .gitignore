@@ -1,4 +1,5 @@
 *.sqlite
+.*rc
 
 # Logs
 logs
